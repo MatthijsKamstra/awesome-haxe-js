@@ -10,19 +10,18 @@ A curated list of amazingly awesome Haxe JavaScript libraries, resources and shi
 ## Official
 
 - [haxe.org](http://haxe.org/)
+- [community.haxe.org](https://community.haxe.org/)
 - twitter
 - gitter
-- community
 
 ## Learning
 
 - [haxe-js documentation](https://matthijskamstra.github.io/haxejs/)
 - [haxe-basics](https://github.com/r3d9u11/haxe-basics)
-- [haxe.org](http://haxe.org/)
+- [manual](https://haxe.org/manual/introduction.html)
 - [api.haxe.org](http://api.haxe.org/)
 - [code.haxe.org](https://code.haxe.org/) ([github](https://github.com/HaxeFoundation/code-cookbook))
-- [manual](https://haxe.org/manual/introduction.html)
-- [try.haxe.org/](https://try.haxe.org/)
+- [try.haxe.org](https://try.haxe.org/)
 
 ## Externs list
 
