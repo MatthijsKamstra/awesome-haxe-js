@@ -9,7 +9,7 @@ A curated list of amazingly awesome Haxe JavaScript libraries, resources and shi
 
 ## Official
 
-- haxe.org
+- [haxe.org](http://haxe.org/)
 - twitter
 - gitter
 - community
@@ -22,7 +22,7 @@ A curated list of amazingly awesome Haxe JavaScript libraries, resources and shi
 - [api.haxe.org](http://api.haxe.org/)
 - [code.haxe.org](https://code.haxe.org/) ([github](https://github.com/HaxeFoundation/code-cookbook))
 - [manual](https://haxe.org/manual/introduction.html)
-- [https://try.haxe.org/](https://try.haxe.org/)
+- [try.haxe.org/](https://try.haxe.org/)
 
 ## Externs list
 
@@ -37,7 +37,7 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 - [haxe-js organisation](https://github.com/haxe-js)
 - [vue](https://github.com/MatthijsKamstra/Vue.hx)
 - [meteor](https://github.com/MatthijsKamstra/hxmeteor)
-- [quicksettings])(https://github.com/markknol/hx-quicksettings)
+- [quicksettings](https://github.com/markknol/hx-quicksettings)
 - [electron](https://github.com/fponticelli/hxelectron)
 - [dat.GUI](https://github.com/mathieuanthoine/haxe-dat.GUI)
 - [CreateJS](https://github.com/Meychi/CreateJS-Haxe)
@@ -48,7 +48,7 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 
 ## Node.js
 
--[redis](https://github.com/proletariatgames/hxnodejs-redis)
+- [redis](https://github.com/proletariatgames/hxnodejs-redis)
 
 ## templates
 
@@ -66,6 +66,7 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 - [hxgenjs](https://github.com/kevinresol/hxgenjs)
 
 ## Libraries
+
 
 ## Projects
 
