@@ -14,7 +14,7 @@ A curated list of amazingly awesome Haxe JavaScript libraries, resources and shi
 - gitter
 - community
 
-## Learning]
+## Learning
 
 - [haxe-js documentation](https://matthijskamstra.github.io/haxejs/)
 - [haxe-basics](https://github.com/r3d9u11/haxe-basics)
@@ -45,10 +45,12 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 - [Bacon](https://github.com/francescoagati/Bacon.hx)
 - [mithril](https://github.com/ciscoheat/mithril-hx)
 - [pako](http://lib.haxe.org/p/pako/)
+- [pixi.js](https://github.com/pixijs/pixi-haxe)
 
 
 ## Node.js
 
+- [node.js](https://github.com/HaxeFoundation/hxnodejs) 
 - [redis](https://github.com/proletariatgames/hxnodejs-redis)
 
 ## templates
