@@ -44,6 +44,7 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 - [riot](https://github.com/francescoagati/riot.hx)
 - [Bacon](https://github.com/francescoagati/Bacon.hx)
 - [mithril](https://github.com/ciscoheat/mithril-hx)
+- [pako](http://lib.haxe.org/p/pako/)
 
 
 ## Node.js
