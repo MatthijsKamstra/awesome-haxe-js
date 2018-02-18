@@ -45,11 +45,14 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 - [mithril](https://github.com/ciscoheat/mithril-hx)
 - [pako](http://lib.haxe.org/p/pako/)
 - [pixi.js](https://github.com/pixijs/pixi-haxe)
-
+- [howler](https://github.com/adireddy/haxe-howler)
+- [hammer](https://github.com/adireddy/haxe-hammer)
+- [buzz](https://github.com/adireddy/haxe-buzz)
+- [chart](https://github.com/adireddy/haxe-chart)
 
 ## Node.js
 
-- [node.js](https://github.com/HaxeFoundation/hxnodejs) 
+- [node.js](https://github.com/HaxeFoundation/hxnodejs) Haxe externs for working with node.js
 - [redis](https://github.com/proletariatgames/hxnodejs-redis)
 
 ## templates
@@ -66,6 +69,7 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 
 - [gulp](https://github.com/benmerckx/gulp-haxe)
 - [hxgenjs](https://github.com/kevinresol/hxgenjs)
+- [js2hx](https://github.com/Blank101/js2hx) Convert JSDoc documented code to Haxe externs.
 
 ## Libraries
 
