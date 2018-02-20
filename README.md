@@ -71,8 +71,20 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 - [hxgenjs](https://github.com/kevinresol/hxgenjs)
 - [js2hx](https://github.com/Blank101/js2hx) Convert JSDoc documented code to Haxe externs.
 
+## Skeleton/Bootstrap/Init project
+
+- [Electron](https://github.com/nanjizal/nanjizalOnElectron)
+
+
+## Tutorials
+
+- [svg draw a cicle](https://github.com/nanjizal/code-cookbook/blob/master/assets/content/cookbook/Graphics/Creating-SVG/01.Drawing-a-Circle.md)
+- [webgl triangles](https://github.com/nanjizal/code-cookbook/blob/master/assets/content/cookbook/Graphics/Creating-WebGL/01.Triangles-for-Vector-2D-graphics.md)
+
 ## Libraries
 
+- [canvasMarkdown](https://github.com/nanjizal/canvasMarkdown): 'canvasMarkdown' helps display Markdown on Canvas via ForeignObject, uses haxe.
+- [htmlHelper](https://github.com/nanjizal/htmlHelper): html helper abstracts and setup classes
 
 ## Projects
 
