@@ -84,7 +84,10 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 ## Libraries
 
 - [canvasMarkdown](https://github.com/nanjizal/canvasMarkdown): 'canvasMarkdown' helps display Markdown on Canvas via ForeignObject, uses haxe.
-- [htmlHelper](https://github.com/nanjizal/htmlHelper): html helper abstracts and setup classes
+
+- [htmlHelper](https://github.com/nanjizal/htmlHelper): html helper abstracts and setup classes.
+
+- [daff](https://github.com/paulfitz/daff):    library for comparing tables, can be used for JS, python, ruby, php ,R. Supported Format: CSV, TSV and ndjson.
 
 ## Projects
 
