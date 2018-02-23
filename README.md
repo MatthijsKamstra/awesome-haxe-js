@@ -91,7 +91,7 @@ Externs are used to describe target-specific interaction in a type-safe manner f
 
 ## Projects
 
-
+- [pman](https://github.com/DavisDevelopment/pman): Desktop media player, written entirely in Haxe, based on modern web technologies
 
 ## Who to follow
 
